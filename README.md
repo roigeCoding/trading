@@ -1,0 +1,2 @@
+# trading
+Indicators and strategies
